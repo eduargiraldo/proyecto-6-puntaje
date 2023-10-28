@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(72,218,201);
+
+}
+
+.puntaje{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.item{
+    background-color:rgb(201, 238, 226) ;
+    width: 50px;
+    height: 45px;
+    cursor: pointer;
+    -webkit-mask-image: url("../PROYECTO PUNTAJE/img/estrella.svg");
+    mask-image: url("../PROYECTO PUNTAJE/img/estrella.svg");
+   
+    
+}
+
+.item.selec{
+    background-color: rgb(15, 150, 134);
+}
+
+
