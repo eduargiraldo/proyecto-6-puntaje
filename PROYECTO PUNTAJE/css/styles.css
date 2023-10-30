@@ -16,8 +16,8 @@ body{
     width: 50px;
     height: 45px;
     cursor: pointer;
-    -webkit-mask-image: url("../PROYECTO PUNTAJE/img/estrella.svg");
-    mask-image: url("../PROYECTO PUNTAJE/img/estrella.svg");
+    -webkit-mask-image: url("https://archivos.territorio.la/archivos/clases/estrella___76653bf2b6c231d___.svg");
+    mask-image: url("https://archivos.territorio.la/archivos/clases/estrella___76653bf2b6c231d___.svg");
    
     
 }
